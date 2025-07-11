@@ -1,0 +1,6 @@
+/Users/catherinepemblington/Documents/GitHub/Messaging-system/obj/Debug/net8.0/Messaging-system.csproj.AssemblyReference.cache
+/Users/catherinepemblington/Documents/GitHub/Messaging-system/obj/Debug/net8.0/Messaging-system.GeneratedMSBuildEditorConfig.editorconfig
+/Users/catherinepemblington/Documents/GitHub/Messaging-system/obj/Debug/net8.0/Messaging-system.AssemblyInfoInputs.cache
+/Users/catherinepemblington/Documents/GitHub/Messaging-system/obj/Debug/net8.0/Messaging-system.AssemblyInfo.cs
+/Users/catherinepemblington/Documents/GitHub/Messaging-system/obj/Debug/net8.0/Messaging-system.csproj.CoreCompileInputs.cache
+/Users/catherinepemblington/Documents/GitHub/Messaging-system/obj/Debug/net8.0/Messaging-system.sourcelink.json
